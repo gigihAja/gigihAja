@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gigih Dharmawan</h1>
 <h3 align="center">🚀 Network Engineer & SOC Analyst Intern at PT. Nusantara Compnet Integrator</h3>
 
-<br/>
-
 <p align="center">
-  📍 Surabaya, Indonesia <br/>
-  🎓 BINUS University <br/>
-  📧 <a href="mailto:dharmawangigih@gmail.com">dharmawangigih@gmail.com</a>
+  📍 Jakarta, Indonesia | 🎓 BINUS University | 📧 <a href="mailto:dharmawangigih@gmail.com">dharmawangigih@gmail.com</a>
 </p>
 
-<br/><br/>
+---
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
@@ -18,10 +14,11 @@
   </a>
 </p>
 
-<br/><br/>
+---
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
+  <!-- Icons for various languages and tools -->
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
@@ -43,33 +40,17 @@
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
 </p>
 
-<br/><br/>
+---
 
 <h3 align="center">🔍 About Me</h3>
 <p align="center">
-  I'm a dedicated Network Engineer and SOC Analyst Intern at PT. Nusantara Compnet Integrator, based in Surabaya, Indonesia.
+  I'm a dedicated Network Engineer and SOC Analyst Intern at PT. Nusantara Compnet Integrator, based in Surabaya, Indonesia. Currently pursuing my studies at BINUS University, I specialize in cybersecurity, network infrastructure, and system monitoring.
 </p>
 
-<br/>
-
 <p align="center">
-  Currently pursuing my studies at BINUS University, I specialize in cybersecurity, network infrastructure, system monitoring, and threat analysis.
+  Passionate about technology and its potential to solve real-world problems, I actively engage in various projects and internships to enhance my skills and contribute to the tech community.
 </p>
 
-<br/>
-
 <p align="center">
-  I am passionate about technology and enjoy tackling real-world problems through practical IT solutions and innovation.
-</p>
-
-<br/>
-
-<p align="center">
-  Always eager to collaborate and grow, I thrive in fast-paced environments where continuous learning is the key.
-</p>
-
-<br/>
-
-<p align="center">
-  Let’s connect and build something impactful!
+  Let's connect and collaborate to innovate and drive technological advancements!
 </p>
