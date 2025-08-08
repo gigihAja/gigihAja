@@ -44,7 +44,7 @@
 
 <h3 align="center">🔍 About Me</h3>
 <p align="center">
-  I'm a dedicated Network Engineer and SOC Analyst Intern at PT. Nusantara Compnet Integrator, based in Surabaya, Indonesia. Currently pursuing my studies at BINUS University, I specialize in cybersecurity, network infrastructure, and system monitoring.
+  I'm a dedicated Network Engineer and SOC Analyst Intern at PT. Nusantara Compnet Integrator, based in Jakarta, Indonesia. Currently pursuing my studies at BINUS University, I specialize in cybersecurity, network infrastructure, and system monitoring.
 </p>
 
 <p align="center">
